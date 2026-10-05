@@ -1,0 +1,141 @@
+# Pages CMS configuration for the CoRe Lab website
+# Docs: https://pagescms.org/docs/configuration/
+
+media:
+  input: assets/images
+  output: /assets/images
+  rename: safe
+  categories: [image]
+
+content:
+  # ---------------------------------------------------------------- People
+  - name: people
+    label: People
+    type: collection
+    path: _people
+    filename:
+      template: "{primary}.md"
+      field: create
+    view:
+      fields: [title, category, role]
+      primary: title
+      sort: [title, category]
+      default:
+        sort: category
+        order: asc
+    fields:
+      - name: title
+        label: Full name
+        type: string
+        required: true
+        description: "Exactly as it should appear on the site, including Dr or Prof. This is also what links people to projects, posts and publications, so avoid changing it later."
+      - name: category
+        label: Category
+        type: select
+        required: true
+        options:
+          values: [Members, Affiliate Members, Researchers, Students]
+      - name: surname
+        label: Surname (for sorting)
+        type: string
+        required: true
+        description: "Used to put people in alphabetical order on the People page."
+      - name: role
+        label: Role
+        type: string
+        description: "e.g. Senior Lecturer, PhD Student, Postdoctoral Researcher"
+      - name: email
+        label: Email
+        type: string
+      - name: orcid
+        label: ORCID
+        type: string
+        description: "Just the ID, e.g. 0000-0002-1825-0097 (not the full web address). Publications are fetched from this."
+        pattern:
+          regex: '^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$'
+          message: "Use the format 0000-0000-0000-0000, without https://orcid.org/"
+      - name: photo
+        label: Photo
+        type: image
+      - name: body
+        label: Bio
+        type: rich-text
+
+  # -------------------------------------------------------------- Projects
+  - name: projects
+    label: Projects
+    type: collection
+    path: _projects
+    filename:
+      template: "{primary}.md"
+      field: create
+    view:
+      fields: [title, status]
+      primary: title
+      sort: [title, status]
+    fields:
+      - name: title
+        label: Project title
+        type: string
+        required: true
+      - name: summary
+        label: One-sentence summary
+        type: text
+        required: true
+        description: "Shown on the Projects page."
+      - name: status
+        label: Status
+        type: select
+        required: true
+        options:
+          values: [Current, Completed]
+      - name: dates
+        label: Dates
+        type: string
+        description: "e.g. 2025 – present"
+      - name: image
+        label: Image
+        type: image
+      - name: people
+        label: Team members
+        type: reference
+        options:
+          collection: people
+          multiple: true
+          value: "{primary}"
+          label: "{primary}"
+      - name: body
+        label: Description
+        type: rich-text
+
+  # ------------------------------------------------------------------ News
+  - name: posts
+    label: News
+    type: collection
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [title, author]
+      primary: title
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: author
+        label: Author
+        type: reference
+        options:
+          collection: people
+          value: "{primary}"
+          label: "{primary}"
+      - name: summary
+        label: Short summary
+        type: text
+        description: "Optional. If left blank, the first few lines of the post are used."
+      - name: image
+        label: Image
+        type: image
+      - name: body
+        label: Post
+        type: rich-text
