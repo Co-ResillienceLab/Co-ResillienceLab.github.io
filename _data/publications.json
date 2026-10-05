@@ -1,1 +1,3674 @@
-[]
+[
+  {
+    "title": "Agentic SABRE: An Uncertainty-Aware Neuro-Symbolic Multi-Agent Framework for Adaptive Ransomware Detection",
+    "journal": "Expert Systems with Applications",
+    "year": "2027",
+    "type": "journal-article",
+    "doi": "10.1016/j.eswa.2026.133558",
+    "authors": [
+      "Henry Kabuye",
+      "Biju Issac",
+      "Neera Jeyamohan"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "‘Now you’re home’: Awareness cues, rejection and post-digital safety on mobile dating apps",
+    "journal": "New Media and Society",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1177/14614448251336437",
+    "authors": [
+      "Giulia Campaioli",
+      "Adriano Zamperini",
+      "Marta Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Using Speculative Design to Explore Technology-Facilitated Misinformation Correction",
+    "journal": "Proc. EUSSET Conf. on Computer-Supported Cooperative Work",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.48340/ecscw2026_056",
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "The Transparency Paradox: An ethnographic investigation of AI Ethics and Accountability in Nigerian journalism",
+    "journal": "Proceedings of the ACM on Human-Computer Interaction",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1145/3817016",
+    "authors": [
+      "Oluwamayowa Tijani",
+      "Jamie Mahoney",
+      "Santosh Vijaykumar",
+      "James Nicholson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney",
+      "Mayowa Tijani"
+    ]
+  },
+  {
+    "title": "Slide.Bingo: From Passive Attendance to Active Listening Through AI-Generated Bingo",
+    "journal": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.1145/3772363.3799376",
+    "authors": [
+      "Kyle Montague",
+      "Dan Jackson",
+      "Pamela Briggs",
+      "Reem Talhouk",
+      "Luís P. Carvalho",
+      "Lauren Scott",
+      "Shaun Lawson",
+      "Austin L. Toombs",
+      "Colin M. Gray",
+      "Paul C Parsons",
+      "Hugo Nicolau",
+      "Ana Cristina Pires",
+      "Tiago Guerreiro",
+      "John Vines"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Scaffolding Online Safety in Older Communities: Exploring the Relationship between Digital Literacy and Cybersecurity",
+    "journal": "ACM Transactions on Computer-Human Interaction",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1145/3796705",
+    "authors": [
+      "Jack Holt",
+      "James Nicholson"
+    ],
+    "members": [
+      "Dr Jack Holt"
+    ]
+  },
+  {
+    "title": "Neurodiversity Meet-Up @ CHI: Building a Neuro-Affirming Community in HCI",
+    "journal": "CHI EA '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.1145/3772363.3778796",
+    "authors": [
+      "Nathalie Alexandra Penglin Tcherdakoff",
+      "Patricia Piedade",
+      "Grace Jane Stangroome",
+      "Marta E. Cecchinato",
+      "Antonella Nonnis",
+      "Shoko Kimura",
+      "Nicolai Brodersen Hansen",
+      "Laura Maye",
+      "Anna R. L. Carter"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "From avoider to challenger",
+    "journal": "Harvard Kennedy School Misinformation Review",
+    "year": "2026",
+    "type": "other",
+    "doi": "10.37016/mr-2020-211",
+    "authors": [
+      "Lauren Scott",
+      "Marta E. Cecchinato",
+      "Mark Warner"
+    ],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Fetal health classification",
+    "journal": "Medical and Biological Engineering and Computing",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1007/s11517-026-03525-z",
+    "authors": [
+      "Raza Hasan",
+      "Vishal Dattana",
+      "Salman Mahmood",
+      "Ali Abbas",
+      "Krutika Kamleshbhai Sojitra",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Digital inclusion in later life",
+    "journal": "Behaviour and Information Technology",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1080/0144929x.2026.2642834",
+    "authors": [
+      "Lauren Scott",
+      "Biddy Casselden",
+      "David P. Hastings",
+      "Sean Howley",
+      "Nic Whitton"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Delightful Encounters: Fun, Curiosity, and Connection in Design",
+    "journal": "Interactions",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1145/3780154",
+    "authors": [
+      "Anna R. L. Carter",
+      "Dalya Al-Shahrabi",
+      "Lauren Scott",
+      "Patrícia Piedade"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Co-Designing Islamic AI Ethics: Insights from the UK Muslim Community",
+    "journal": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.1145/3772318.3790413",
+    "authors": [
+      "Rochelle Campbell-Esen",
+      "Jamie Mahoney",
+      "Reem Talhouk"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Breaking Infectious Disease Stigma: The Unusual Case of COVID‐19 Test Sharing on Twitter During the Pandemic",
+    "journal": "Human Behavior and Emerging Technologies",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1155/hbe2/6654869",
+    "authors": [
+      "Effie Le Moignan",
+      "Jamie Mahoney",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "AI as Compensatory Infrastructure: Sensemaking, Responsibility, and Labour in Value-Driven Organisations",
+    "journal": "Proceedings of the 5th Annual Symposium on Human-Computer Interaction for Work",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.1145/3808045.3808057",
+    "authors": [
+      "David Colborn-Clark",
+      "Marta E. Cecchinato",
+      "Andy Dow"
+    ],
+    "members": [
+      "Dr Marta Cecchinato",
+      "David Colborn-Clark"
+    ]
+  },
+  {
+    "title": "Who yields and why?",
+    "journal": "Joint Action Meeting, Turin, Italy, 9/07/25",
+    "year": "2025",
+    "type": "conference-poster",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Understanding How Privacy and Data Protection Perceptions Shape Nigerian Journalists' Use of AI Tools",
+    "journal": "2025 IEEE European Symposium on Security and Privacy Workshops (EuroS&amp;PW)",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.1109/eurospw67616.2025.00050",
+    "authors": [
+      "Oluwamayowa Tijani",
+      "Jamie Mahoney",
+      "Santosh Vijaykumar",
+      "James Nicholson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney",
+      "Mayowa Tijani"
+    ]
+  },
+  {
+    "title": "Rethinking Family Informatics through a Data Feminist Lens: A Duoethnography of Shared Data, (In)visible Labor, and Everyday Tracking: Rethinking Family Informatics through a Data Feminist Lens",
+    "journal": "ACM Transactions on Computing for Healthcare",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.1145/3785668",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Daniel Harrison"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "KaraokAI: Exploring the Potential of AI-Generated Karaoke for Academic Conferences and Research Experiences",
+    "journal": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.1145/3706599.3721113",
+    "authors": [
+      "Anna R. L. Carter",
+      "Dalya Al-Shahrabi",
+      "William A. P. Imoukhuede",
+      "Lauren Scott",
+      "Dan Jackson",
+      "Reem Talhouk",
+      "Patricia Piedade",
+      "Kyle Montague"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Intelligent Diagnostic Model for Early Malaria Symptoms",
+    "journal": "International Journal of Advanced Computer Science and Applications",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.14569/ijacsa.2025.0161207",
+    "authors": [
+      "Phoebe A Barraclough",
+      "Charles M Were",
+      "Hilda Mwangakala",
+      "Philip Anderson",
+      "Dornald O Ohanya",
+      "Harison Agola",
+      "Philip Nandi"
+    ],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Glossary for Research on Human Crowd Dynamics - 2nd Edition",
+    "journal": "Collective\nDynamics",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.17815/cd.2025.189",
+    "authors": [
+      "Juliane Adrian",
+      "Martyn Amos",
+      "Cécile Appert-Rolland",
+      "Mitra Baratchi",
+      "Nikolai Bode",
+      "Maik Boltes",
+      "Thomas Chatagnon",
+      "Mohcine Chraibi",
+      "Alessandro Corbetta",
+      "Arturo Cuesta",
+      "Guillaume Dezecache",
+      "John Drury",
+      "Iñaki Echeverría-Huarte",
+      "Sina Feldmann",
+      "Claudio Feliciani",
+      "Lazaros Filippidis",
+      "Zhi-Jian Fu",
+      "Paul Geoerg",
+      "Roland Geraerts",
+      "Rhea Haddad",
+      "Milad Haghani",
+      "Gesine Hofinger",
+      "Nick Hopkins",
+      "Pavel Hrabák",
+      "Aoife Hunt",
+      "Xiaolu Jia",
+      "Max Kinateder",
+      "Angelika Kneidl",
+      "Krisztina Konya",
+      "Gerta Köster",
+      "Laura Künzer",
+      "Mira Küpper",
+      "Peter Lawrence",
+      "Ruggiero Lovreglio",
+      "Jian Ma",
+      "Fergus Neville",
+      "Alexandre Nicolas",
+      "Katsuhiro Nishinari",
+      "Evangelos Ntontis",
+      "Anne-Hélène Olivier",
+      "Daniel Parisi",
+      "Julien Pettré",
+      "Tom Postmes",
+      "Kalaga Ramachandra Rao",
+      "Enrico Ronchi",
+      "Andreas Schadschneider",
+      "Jette Schumann",
+      "Sebastián Seriani",
+      "Armin Seyfried",
+      "Anna Sieben",
+      "Michael Spearpoint",
+      "Gavin Brent Sullivan",
+      "Anne Templeton",
+      "Peter Thompson",
+      "Akiyasu Tomoeda",
+      "Antoine Tordeux",
+      "Claudia Totzeck",
+      "Ezel Üsten",
+      "Natalie Van der Wal",
+      "Ashish Verma",
+      "Nanda Wijermans",
+      "Zeynep Yücel",
+      "Francesco Zanlungo",
+      "Jun Zhang",
+      "Iker Zuriguel"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Exploring AI in the VCSE Sector: Challenges, Opportunities, and Support Mechanisms",
+    "journal": "In: Proc. 23rd EUSSET Conf. on Computer-Supported Cooperative Work - Doctoral Colloquium Contributions",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "David Colborn-Clark"
+    ]
+  },
+  {
+    "title": "Explainable and Uncertainty Aware AI-based Ransomware Detection",
+    "journal": "IEEE Access",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.1109/access.2025.3581424",
+    "authors": [
+      "Henry Kabuye",
+      "Biju Issac",
+      "Rahul Yumlembam",
+      "Jeyamohan Neera"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "Enhancing Supply Chain Management: A Comparative Study of Machine Learning Techniques with Cost–Accuracy and ESG-Based Evaluation for Forecasting and Risk Mitigation",
+    "journal": "Sustainability",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.3390/su17135772",
+    "authors": [
+      "Mian Usman Sattar",
+      "Vishal Dattana",
+      "Raza Hasan",
+      "Salman Mahmood",
+      "Hamza Wazir Khan",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Designing for Neurodiversity in Academia: Addressing Challenges and Opportunities in Human-Computer Interaction",
+    "journal": "CHI EA '25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.1145/3706599.3716288",
+    "authors": [
+      "Nathalie Alexandra Penglin Tcherdakoff",
+      "Grace Jane Stangroome",
+      "Ashlee Milton",
+      "Catherine Holloway",
+      "Marta E. Cecchinato",
+      "Antonella Nonnis",
+      "Tessa Eagle",
+      "Dena Al Thani",
+      "Hwajung Hong",
+      "Rua Mae Williams"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "CNN-Based Optimization for Fish Species Classification: Tackling Environmental Variability, Class Imbalance, and Real-Time Constraints",
+    "journal": "Information",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.3390/info16020154",
+    "authors": [
+      "Amirhosein Mohammadisabet",
+      "Raza Hasan",
+      "Vishal Dattana",
+      "Salman Mahmood",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Between Promise and Practice: How the UK VCSE Sector Adopts Generative AI",
+    "journal": "CHIWORK '25 Adjunct: Adjunct Proceedings of the 4th Annual Symposium on Human-Computer Interaction for Work",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.1145/3707640.3731924",
+    "authors": [
+      "David Clark",
+      "Marta E. Cecchinato",
+      "Andy Dow"
+    ],
+    "members": [
+      "Dr Marta Cecchinato",
+      "David Colborn-Clark"
+    ]
+  },
+  {
+    "title": "An eye-tracking study on monolingual and bilingual proficiency in navigating online disinformation",
+    "journal": "Journal of Documentation",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.1108/jd-01-2025-0005",
+    "authors": [
+      "Zaneta Sobotkova",
+      "Matthew Pointon",
+      "Geoff Walton"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "An Interpretable and Generalizable Machine Learning Model for Predicting Asthma Outcomes: Integrating AutoML and Explainable AI Techniques",
+    "journal": "World",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.3390/world6010015",
+    "authors": [
+      "Salman Mahmood",
+      "Raza Hasan",
+      "Saqib Hussain",
+      "Rochak Adhikari"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Affective interaction and affective computing-past, present and future",
+    "journal": "CHI EA '25: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.1145/3706599.3706743",
+    "authors": [
+      "Naseem Ahmadpour",
+      "Danielle Lottridge",
+      "Jonas Fritsch",
+      "Corina Sas",
+      "Marta E. Cecchinato",
+      "Daniel Harrison",
+      "Kristina Höök",
+      "Pin Sym Foong",
+      "Kiran Ijaz",
+      "Phillip Gough",
+      "Yidan Cao",
+      "Xuefei Li",
+      "Shaimaa Lazem",
+      "Thida Sachathep"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Accidental spreaders: How Different Roles Interact During Misinformation Discussions",
+    "journal": "Proceedings of the 23rd EUSSET Conference on Computer Supported Cooperative Work",
+    "year": "2025",
+    "type": "conference-paper",
+    "doi": "10.48340/ecscw2025_cp01",
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "A Trustworthy and Untraceable Centralised Payment Protocol for Mobile Payment",
+    "journal": "ACM Transactions on Privacy and Security",
+    "year": "2025",
+    "type": "journal-article",
+    "doi": "10.1145/3706421",
+    "authors": [
+      "Jeyamohan Neera",
+      "Xiaomin Chen",
+      "Nauman Aslam",
+      "Biju Issac"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "Towards Transparent Diabetes Prediction: Combining AutoML and Explainable AI for Improved Clinical Insights",
+    "journal": "Information",
+    "year": "2024",
+    "type": "journal-article",
+    "doi": "10.3390/info16010007",
+    "authors": [
+      "Raza Hasan",
+      "Vishal Dattana",
+      "Salman Mahmood",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "More than Human Digital Civics",
+    "journal": "Proceedings of the International Conference on Animal-Computer Interaction",
+    "year": "2024",
+    "type": "conference-paper",
+    "doi": "10.1145/3702336.3702355",
+    "authors": [
+      "Sam Gowland",
+      "Lauren Scott",
+      "Grace Handley",
+      "Anna Carter",
+      "Dirk van der Linden",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Evaluation of the Omni-Secure Firewall System in a Private Cloud Environment",
+    "journal": "Knowledge",
+    "year": "2024",
+    "type": "journal-article",
+    "doi": "10.3390/knowledge4020008",
+    "authors": [
+      "Salman Mahmood",
+      "Raza Hasan",
+      "Nor Adnan Yahaya",
+      "Saqib Hussain",
+      "Muzammil Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Empirical evolution of an evacuation reporting template",
+    "journal": "Safety Science",
+    "year": "2024",
+    "type": "journal-article",
+    "doi": "10.1016/j.ssci.2024.106496",
+    "authors": [
+      "Khadija Baig",
+      "Martyn Amos",
+      "Steve Gwynne",
+      "Noureddine Bénichou",
+      "Max Kinateder"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Emergency Remote Education in Nigeria: Challenges and Design Opportunities",
+    "journal": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "year": "2024",
+    "type": "conference-paper",
+    "doi": "10.1145/3613904.3641921",
+    "authors": [
+      "Rebecca Nicholson",
+      "Rebecca Strachan",
+      "Opeyemi Dele-Ajayi",
+      "Kemi Fasae"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Digital Forensics within the Criminal Justice System",
+    "journal": "",
+    "year": "2024",
+    "type": "report",
+    "doi": "10.25398/rd.northumbria.25395655",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Assessment of Visual Attention in Teams with or without Dedicated Team Leaders: A Neonatal Simulation-Based Pilot Randomised Cross-Over Trial Utilising Low-Cost Eye-Tracking Technology",
+    "journal": "Children",
+    "year": "2024",
+    "type": "journal-article",
+    "doi": "10.3390/children11081023",
+    "authors": [
+      "Prakash Kannan Loganathan",
+      "Anip Garg",
+      "Robert McNicol",
+      "Conor Wall",
+      "Matthew Pointon",
+      "Peter McMeekin",
+      "Alan Godfrey",
+      "Michael Wagner",
+      "Charles Christoph Roehr"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "ADHD and Knowledge Work",
+    "journal": "Design for Equality and Justice",
+    "year": "2024",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-031-61688-4_10",
+    "authors": [
+      "Jennifer Campbell",
+      "Sena Çerçi",
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A dynamic state-based model of crowds",
+    "journal": "Safety Science",
+    "year": "2024",
+    "type": "journal-article",
+    "doi": "10.1016/j.ssci.2024.106522",
+    "authors": [
+      "Martyn Amos",
+      "Paul Gainer",
+      "Steve Gwynne",
+      "Anne Templeton"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A Place to Charge Your Wheels: Re-imagining the urban landscape for electric-wheelchair users through Design Fiction",
+    "journal": "The 26th International ACM SIGACCESS Conference on Computers and Accessibility",
+    "year": "2024",
+    "type": "conference-poster",
+    "doi": "10.1145/3663548.3688532",
+    "authors": [
+      "Patricia Piedade",
+      "Hope Jang",
+      "Joe Maddux",
+      "Stewart Chappell",
+      "Jacqui Maher",
+      "Andy Dow",
+      "Lynne R. Conniss",
+      "Richard A Kotter",
+      "Matteo Conti",
+      "Marco Zilvetti",
+      "Suzanne Nicolson",
+      "Ayman Rizwan",
+      "Vincent Barrioz",
+      "Estelle Louise Farrell"
+    ],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "“I figured her feeling a little bit bad was worth it to not spread that kind of hate”",
+    "journal": "CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+    "year": "2023",
+    "type": "conference-paper",
+    "doi": "10.1145/3544548.3581202",
+    "authors": [
+      "Lauren Scott",
+      "Lynne Coventry",
+      "Marta E. Cecchinato",
+      "Mark Warner"
+    ],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Understanding digital wellbeing within complex technological contexts",
+    "journal": "International Journal of Human Computer Studies",
+    "year": "2023",
+    "type": "other",
+    "doi": "10.1016/j.ijhcs.2023.103034",
+    "authors": [
+      "Alberto Monge Roffarello",
+      "Luigi De Russis",
+      "Danielle Lottridge",
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Self-adapting Security Monitoring in Eucalyptus Cloud Environment",
+    "journal": "International Journal of Advanced Computer Science and Applications",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.14569/ijacsa.2023.0140310",
+    "authors": [
+      "Salman Mahmood",
+      "Nor Adnan Yahaya",
+      "Raza Hasan",
+      "Saqib Hussain",
+      "Mazhar Hussain Malik",
+      "Kamal Uddin Sarker"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Remote Work, Work Measurement and the State of Work Research in Human-Centred Computing",
+    "journal": "Interacting with Computers",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1093/iwc/iwad014",
+    "authors": [
+      "Sandy J. J. Gould",
+      "Anna Rudnicka",
+      "Dave Cook",
+      "Marta E. Cecchinato",
+      "Joseph W. Newbold",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Private and Utility Enhanced Recommendations with Local Differential Privacy and Gaussian Mixture Model",
+    "journal": "IEEE Transactions on Knowledge and Data Engineering",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1109/tkde.2021.3126577",
+    "authors": [
+      "Jeyamohan Neera",
+      "Xiaomin Chen",
+      "Nauman Aslam",
+      "Kezhi Wang",
+      "Zhan Shu"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "Information discernment and online reading behaviour: an experiment",
+    "journal": "Online Information Review",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1108/oir-02-2021-0101",
+    "authors": [
+      "Matthew Pointon",
+      "Geoff Walton",
+      "Martin Turner",
+      "Michael Lackenby",
+      "Jamie Barker",
+      "Andrew Wilkinson"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Group Work Assessment: Assessing Peer Assessment at Global College of Engineering and Technology",
+    "journal": "SHS Web of Conferences",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1051/shsconf/202315602001",
+    "authors": [
+      "Raza Hasan",
+      "Saqib Hussain",
+      "Mazhar Hussain Malik",
+      "Nadeem Akhtar"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Exploring the Potential Role of Digital Technologies to Support Family Networks with Misinformation Correction",
+    "journal": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+    "year": "2023",
+    "type": "conference-paper",
+    "doi": "10.1145/3544549.3577054",
+    "authors": [
+      "Lauren Scott"
+    ],
+    "members": [
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Evaluating the Effects of Culture and Relationship Strength on Misinformation Challenging Behaviours Within the UK",
+    "journal": "Human-Computer Interaction – INTERACT 2023",
+    "year": "2023",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-031-42286-7_23",
+    "authors": [
+      "Lauren Scott",
+      "Marta E. Cecchinato",
+      "Lynne Coventry",
+      "Mark Warner"
+    ],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Evaluating a complex and sustained STEM engagement programme through the lens of science capital: insights from Northeast England",
+    "journal": "International Journal of STEM Education",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1186/s40594-023-00421-y",
+    "authors": [
+      "Annie Padwick",
+      "Opeyemi Dele-Ajayi",
+      "Carol Davenport",
+      "Rebecca Strachan"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Enhancing Free-Living Fall Risk Assessment",
+    "journal": "Sensors",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.3390/s23020891",
+    "authors": [
+      "Jason Moore",
+      "Samuel Stuart",
+      "Peter McMeekin",
+      "Richard Walker",
+      "Yunus Celik",
+      "Matthew Pointon",
+      "Alan Godfrey"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Chatbot in E-learning",
+    "journal": "SHS Web of Conferences",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.1051/shsconf/202315601002",
+    "authors": [
+      "Saqib Hussain",
+      "Safa Hamood Al-Hashmi",
+      "Mazhar Hussain Malik",
+      "Syed Imran Ali Kazmi"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "An Innovative Approach for Fake News Detection using Machine Learning",
+    "journal": "Sir Syed University Research Journal of Engineering &amp; Technology",
+    "year": "2023",
+    "type": "journal-article",
+    "doi": "10.33317/ssurj.565",
+    "authors": [
+      "Maya Hisham",
+      "Raza Hasan",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "The ethics of social media analytics in migration studies",
+    "journal": "Information and Communications Technology in Support of Migration",
+    "year": "2022",
+    "type": "book-chapter",
+    "doi": "10.1007/978-3-030-93266-4_19",
+    "authors": [
+      "Jamie Mahoney",
+      "Kahina Le Louvier",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "The end of the active work break? Remote work, sedentariness and the role of technology in creating active break-taking norms",
+    "journal": "CHIWORK 2022 ",
+    "year": "2022",
+    "type": "conference-paper",
+    "doi": "10.1145/3533406.3533409",
+    "authors": [
+      "Anna Rudnicka",
+      "Dave Cook",
+      "Marta E. Cecchinato",
+      "Sandy J. J. Gould",
+      "Joseph W. Newbold",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "The Effects of Simulated Interruptions on Mobile Search Tasks",
+    "journal": "Journal of the Association for Information Science and Technology",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1002/asi.24579",
+    "authors": [
+      "Orland Hoeber",
+      "Morgan Harvey",
+      "Shaheed Ahmed Dewan Sagar",
+      "Matthew Pointon"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "PACO-VMP: Parallel Ant Colony Optimization for Virtual Machine Placement",
+    "journal": "Future Generation Computer Systems",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1016/j.future.2021.11.019",
+    "authors": [
+      "Joshua Peake",
+      "Martyn Amos",
+      "Nicholas Costen",
+      "Giovanni Masala",
+      "Huw Lloyd"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Mobile Technology for Learning During Covid-19",
+    "journal": "New Realities, Mobile Systems and Applications - Proceedings of the 14th IMCL Conference",
+    "year": "2022",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-030-96296-8_2",
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "J-POP",
+    "journal": "IEEE Transactions on Games",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1109/tg.2021.3081817",
+    "authors": [
+      "Huw Lloyd",
+      "Matthew Crossley",
+      "Mark Sinclair",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "IoT based Fire Alerting Smart System",
+    "journal": "Sir Syed University Research Journal of Engineering &amp; Technology",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.33317/ssurj.410",
+    "authors": [
+      "Ibtehal Mahfoodh Mohammed Al Hasani",
+      "Syed Imran Ali Kazmi",
+      "Reehan Ali Shah",
+      "RAZA HASAN",
+      "Saqib Hussain"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "Information discernment and the psychophysiological effects of misinformation",
+    "journal": "Global Knowledge, Memory and Communication",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1108/gkmc-03-2021-0052",
+    "authors": [
+      "Geoff Walton",
+      "Matthew Pointon",
+      "Jamie Barker",
+      "Martin Turner",
+      "Andrew Joseph Wilkinson"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Ethical considerations in social media analytics in the context of migration",
+    "journal": "Research Ethics",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1177/17470161221087542",
+    "authors": [
+      "Jamie Mahoney",
+      "Kahina Le Louvier",
+      "Shaun Lawson",
+      "Diotima Bertel",
+      "Elena Ambrosetti"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Design Opportunities for Freelancing Platforms",
+    "journal": "CHIWORK 2022 ",
+    "year": "2022",
+    "type": "conference-paper",
+    "doi": "10.1145/3533406.3533410",
+    "authors": [
+      "Juan Carlos Alvarez de la Vega",
+      "Marta E. Cecchinato",
+      "John Rooksby"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Crowd-Sourced Identification of Characteristics of Collective Human Motion",
+    "journal": "Artificial Life",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1162/artl_a_00381",
+    "authors": [
+      "Martyn Amos",
+      "Jamie Webster"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Close but Not Too Close",
+    "journal": "The Proceedings of the ACM on Human Computer Interaction (HCI)",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.1145/3549487",
+    "authors": [
+      "Ioanna Iacovides",
+      "Joe Cutting",
+      "Jen Beeston",
+      "Marta E. Cecchinato",
+      "Elisa D. Mekler",
+      "Paul Cairns"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A Ranking Learning Model by K-Means Clustering Technique for Web Scraped Movie Data",
+    "journal": "Computers",
+    "year": "2022",
+    "type": "journal-article",
+    "doi": "10.3390/computers11110158",
+    "authors": [
+      "Kamal Uddin Sarker",
+      "Mohammed Saqib",
+      "Raza Hasan",
+      "Salman Mahmood",
+      "Saqib Hussain",
+      "Ali Abbas",
+      "Aziz Deraman"
+    ],
+    "members": [
+      "Saqib Hussain"
+    ]
+  },
+  {
+    "title": "A Local Differential Privacy based Hybrid Recommendation Model with BERT and Matrix Factorization",
+    "journal": "Proceedings of the 19th International Conference on Security and Cryptography (SECRYPT 2022)",
+    "year": "2022",
+    "type": "conference-paper",
+    "doi": "10.5220/0011266800003283",
+    "authors": [
+      "Jeyamohan Neera",
+      "Xiaomin Chen",
+      "Nauman Aslam",
+      "Biju Issac",
+      "Eve O’Brien"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "“Why lose control?” A Study of Freelancers’ Experiences with Gig Economy Platforms",
+    "journal": "CHI '21",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1145/3411764.3445305",
+    "authors": [
+      "Juan Carlos Alvarez de la Vega",
+      "Marta E. Cecchinato",
+      "John Rooksby"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Widening the Aspirations of Young People towards Digital and wider STEM Careers",
+    "journal": "2021 IEEE Global Engineering Education Conference (EDUCON 2021)",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1109/educon46332.2021.9453969",
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Whither wilderness? An investigation of technology use by long-distance backpackers",
+    "journal": "Journal of the Association for Information Science and Technology",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1002/asi.24437",
+    "authors": [
+      "Ed Hyatt",
+      "Morgan Harvey",
+      "Matthew Pointon",
+      "Perla Innocenti"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Where Drills Differ from Evacuations",
+    "journal": "Safety Science",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1016/j.ssci.2020.105114",
+    "authors": [
+      "M. Kinateder",
+      "Chunyun Ma",
+      "S. Gwynne",
+      "M. Amos",
+      "N. Bénichou"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Training and Embedding Cybersecurity Guardians in Older Communities.",
+    "journal": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1145/3411764.3445078",
+    "authors": [
+      "James Nicholson",
+      "Ben Morrison",
+      "Matt Dixon",
+      "Jack Holt",
+      "Lynne Coventry",
+      "Jill McGlasson"
+    ],
+    "members": [
+      "Dr Jack Holt"
+    ]
+  },
+  {
+    "title": "The new normals of work: a framework for understanding responses to disruptions created by new futures of work",
+    "journal": "Human–Computer Interaction",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1080/07370024.2021.1982391",
+    "authors": [
+      "Joseph W. Newbold",
+      "Anna Rudnicka",
+      "David Cook",
+      "Marta E. Cecchinato",
+      "Sandy J.J. Gould",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Teachers' concerns about integrating information and communication technologies in the classrooms",
+    "journal": "PLoS One",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0249703",
+    "authors": [
+      "Opeyemi Dele-Ajayi",
+      "Oluwakemi Dunsin Fasae",
+      "Akachukwu Okoli"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Studying the Impact of Gamification on Motivation in Remote Programming Education",
+    "journal": "Proceedings of the 20th European Conference on e-Learning",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Lauren Scott",
+      "Dr Lauren Scott"
+    ]
+  },
+  {
+    "title": "Self-Tracking & Sousveillance at Work ",
+    "journal": "Augmented Exploitation ",
+    "year": "2021",
+    "type": "book-chapter",
+    "doi": "10.2307/j.ctv1h0nv3d.16",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Sandy J. J. Gould",
+      "Frederick Harry Pitts"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Prioritizing unread e-mails",
+    "journal": "Human-Computer Interaction",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1080/07370024.2020.1835481",
+    "authors": [
+      "Anna L. Cox",
+      "Jon Bird",
+      "Duncan P. Brumby",
+      "Marta E. Cecchinato",
+      "Sandy J. J. Gould"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Introduction to the Special Issue on First-Person Methods in HCI",
+    "journal": "ACM Transactions on Computer-Human Interaction",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1145/3492342",
+    "authors": [
+      "Audrey Desjardins",
+      "Oscar Tomico",
+      "Andrés Lucero",
+      "Marta E. Cecchinato",
+      "Carman Neustaedter"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Identification of Lifelike Characteristics of Human Crowds Through a Classification Task",
+    "journal": "ALIFE 2021: The Conference on Artificial Life",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1162/isal_a_00360",
+    "authors": [
+      "Jamie Webster",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "How Design Researchers Interpret Probes",
+    "journal": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1145/3411764",
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "From Personal Data to Digital Legacy: Exploring Conflicts in the Sharing, Security and Privacy of Post-mortem Data",
+    "journal": "Proceedings of the Web Conference 2021",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1145/3442381.3450030",
+    "authors": [
+      "Jack Holt",
+      "James Nicholson",
+      "Jan David Smeddinck"
+    ],
+    "members": [
+      "Dr Jack Holt"
+    ]
+  },
+  {
+    "title": "Digital investigations",
+    "journal": "ERA Forum",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1007/s12027-021-00687-1",
+    "authors": [
+      "Philip Anderson",
+      "Dave Sampson",
+      "Seanpaul Gilroy"
+    ],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Digital Living and its Impact on Cognition – Healthy or Harmful?",
+    "journal": "Proceedings of the 34th British HCI Workshop and Doctoral Consortium 2021",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.14236/ewic/hci2021-w3.0",
+    "authors": [
+      "Madeleine Steeds",
+      "Marta E. Cecchinato",
+      "Corina Sas",
+      "Sarah Clinch"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A Theory of Change for Improving Children’s Perceptions, Aspirations and Uptake of STEM Careers",
+    "journal": "Research in Science Education",
+    "year": "2021",
+    "type": "journal-article",
+    "doi": "10.1007/s11165-019-09909-6",
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "A Special Interest Group on Designed and Engineered Friction in Interaction",
+    "journal": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+    "year": "2021",
+    "type": "conference-paper",
+    "doi": "10.1145/3411763.3450404",
+    "authors": [
+      "Sandy J. J. Gould",
+      "Lewis L. Chuang",
+      "Ioanna Iacovides",
+      "Diego Garaialde",
+      "Marta E. Cecchinato",
+      "Benjamin R. Cowan",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "The Gig Economy in Times of COVID-19",
+    "journal": "Microsoft New Future of Work, 3/08/20",
+    "year": "2020",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "The Future of Evacuation Drills: Assessing and Enhancing Evacuee Performance",
+    "journal": "Safety Science",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1016/j.ssci.2020.104767",
+    "authors": [
+      "Steve Gwynne",
+      "Martyn Amos",
+      "Max Kinateder",
+      "Noureddine Bénichou",
+      "Karen Boyce",
+      "C. Natalie van der Wal",
+      "Enrico Ronchi"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Tackling Gender Stereotypes in STEM Educational Resources",
+    "journal": "2020 IEEE Frontiers in Education Conference (FIE)",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": "10.1109/fie44824.2020.9274158",
+    "authors": [
+      "Opeyemi Dele-Ajayi",
+      "Jill Bradnum",
+      "Tom Prickett",
+      "Rebecca Strachan",
+      "Femi Alufa",
+      "Victor Ayodele"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Solving Sudoku with Ant Colony Optimization",
+    "journal": "IEEE Transactions on Games",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1109/tg.2019.2942773",
+    "authors": [
+      "Huw Lloyd",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "ReFind: Design, Lived Experience and Ongoingness in Bereavement",
+    "journal": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI’20): April 25–30, 2020, Honolulu, HI, USA",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": "10.1145/3313831.3376531",
+    "authors": [
+      "Jayne Wallace",
+      "Kyle Montague",
+      "Trevor Duncan",
+      "Luís P. Carvalho",
+      "Nantia Koulidou",
+      "Jamie Mahoney",
+      "Kellie Morrissey",
+      "Claire Craig",
+      "Linnea Iris Groot",
+      "Shaun Lawson",
+      "Patrick Olivier",
+      "Julie Trueman",
+      "Helen Fisher"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Local Differentially Private Matrix Factorization with MoG for Recommendations",
+    "journal": "Data and Applications Security and Privacy XXXIV",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-030-49669-2_12",
+    "authors": [
+      "Jeyamohan Neera",
+      "Xiaomin Chen",
+      "Nauman Aslam",
+      "Zhan Shu"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "Life-swap: how discussions around personal data can motivate desire for change",
+    "journal": "Personal and Ubiquitous Computing",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1007/s00779-020-01372-9",
+    "authors": [
+      "Rowanne Fleck",
+      "Marta E. Cecchinato",
+      "Anna L. Cox",
+      "Daniel Harrison",
+      "Paul Marshall",
+      "Jea Hoo Na",
+      "Anya Skatova"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Lets diversify by changing culture and challenging stereotypes",
+    "journal": "Higher Education Pedagogies",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1080/23752696.2020.1847159",
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Investigating Teenagers’ Ability to Detect Phishing Messages",
+    "journal": "EuroUSEC 2020",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": "10.1109/eurospw51379.2020.00027",
+    "authors": [
+      "James Nicholson",
+      "Yousra Javed",
+      "Matt Dixon",
+      "Lynne Coventry",
+      "Opeyemi Dele Ajayi",
+      "Philip Anderson"
+    ],
+    "members": [
+      "Philip Anderson",
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Information literacy and the Societal Imperative of Information Discernment",
+    "journal": "Informed societies why information literacy matters for citizenship, participation and democracy",
+    "year": "2020",
+    "type": "book-chapter",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Eworklife: developing effective strategies for remote working during the COVID-19 pandemic",
+    "journal": "New Future of Work, 3/08/20",
+    "year": "2020",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Evaluation of a novel intervention to reduce burnout in doctors-in-training using self-care and digital wellbeing strategies",
+    "journal": "BMC Medical Education",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1186/s12909-020-02160-y",
+    "authors": [
+      "Antonia Rich",
+      "Amira Aly",
+      "Marta E. Cecchinato",
+      "Laura Lascau",
+      "Magdalen Baker",
+      "Rowena Viney",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Design Opportunities for Digital Men’s Health",
+    "journal": "DIS '20: Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": "10.1145/3357236.3395458",
+    "authors": [
+      "John Rooksby",
+      "Marta E. Cecchinato",
+      "Parvin Asadzadeh",
+      "Matthew Philpott",
+      "Christopher Bunn"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Creating Rainbows: The Road to Success",
+    "journal": "Education, Design and Practice - Understanding Skills in a Complex World, Proceedings of the AMPS Conference, June 2019.",
+    "year": "2020",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Boundary Management and Communication Technologies",
+    "journal": "The Oxford Handbook of Digital Technology and Society",
+    "year": "2020",
+    "type": "book-chapter",
+    "doi": "10.1093/oxfordhb/9780190932596.013.10",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A Turing test for crowds",
+    "journal": "Royal Society Open Science",
+    "year": "2020",
+    "type": "journal-article",
+    "doi": "10.1098/rsos.200307",
+    "authors": [
+      "Jamie Webster",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Void Reduction in Self-Healing Swarms",
+    "journal": "ALIFE 2019",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1162/isal_a_00146",
+    "authors": [
+      "Neil Eliot",
+      "David Kendall",
+      "Alun Moon",
+      "Michael Brockway",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Understanding in-context interaction",
+    "journal": "Information Processing & Management",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1016/j.ipm.2019.102089",
+    "authors": [
+      "Morgan Harvey",
+      "Matthew Pointon"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Understanding Mobile Search Task Relevance and User Behaviour in Context",
+    "journal": "Proceedings of the 2019 Conference on Human Information Interaction and Retrieval",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1145/3295750.3298923",
+    "authors": [
+      "Mohammad Aliannejadi",
+      "Morgan Harvey",
+      "Luca Costa",
+      "Matthew Pointon",
+      "Fabio Crestani"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Technology-Enhanced Teaching: A Technology Acceptance Model to Study Teachers’ Intentions to Use Digital Games in the Classroom",
+    "journal": "FIE 2019 Conference Proceedings of the 49th Annual 2019 IEEE Frontiers in Education Conference",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Solving Nurikabe with Ant Colony Optimization",
+    "journal": "GECCO 2019 Companion - Proceedings of the 2019 Genetic and Evolutionary Computation Conference Companion",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1145/3319619.3338470",
+    "authors": [
+      "Martyn Amos",
+      "Matthew Crossley",
+      "Huw Lloyd"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "SimFection",
+    "journal": "Journal of Biological Education",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1080/00219266.2018.1469534",
+    "authors": [
+      "K. Carolan",
+      "J. Verran",
+      "M. Amos",
+      "M. Crossley",
+      "J. Redfern",
+      "N. Whitton",
+      "D. Louttit"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Scaling Techniques for Parallel Ant Colony Optimization on Large Problem Instances",
+    "journal": "Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '19)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1145/3321707.3321832",
+    "authors": [
+      "Joshua Peake",
+      "Martyn Amos",
+      "Paraskevas Yiapanis",
+      "Huw Lloyd"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Personalised Control of Robotic Ankle Exoskeleton Through Experience-Based Adaptive Fuzzy Inference",
+    "journal": "IEEE Access",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1109/access.2019.2920134",
+    "authors": [
+      "Kaiyang Yin",
+      "Kui Xiang",
+      "Muye Pang",
+      "Jing Chen",
+      "Philip Anderson",
+      "Longzhi Yang"
+    ],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Pathways to cellular supremacy in biocomputing",
+    "journal": "Nature Communications",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1038/s41467-019-13232-z",
+    "authors": [
+      "Lewis Grozinger",
+      "Martyn Amos",
+      "Thomas E. Gorochowski",
+      "Pablo Carbonell",
+      "Diego A. Oyarzún",
+      "Ruud Stoof",
+      "Harold Fellermann",
+      "Paolo Zuliani",
+      "Huseyin Tas",
+      "Angel Goñi-Moreno"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "NETIVAR",
+    "journal": "2018 12th International Conference on Software, Knowledge, Information Management &amp; Applications (SKIMA)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1109/skima.2018.8631530",
+    "authors": [
+      "Christopher Flinton",
+      "Philip Anderson",
+      "Hubert P. H. Shum",
+      "Edmond S. L. Ho"
+    ],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Local Differentially Private Matrix Factorization For Recommendations",
+    "journal": "2019 13th International Conference on Software, Knowledge, Information Management and Applications (SKIMA 2019)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1109/skima47702.2019.8982536",
+    "authors": [
+      "Neera Jeyamohan",
+      "Xiaomin Chen",
+      "Nauman Aslam"
+    ],
+    "members": [
+      "Dr Jeyamohan Neera"
+    ]
+  },
+  {
+    "title": "Games for Teaching Mathematics in Nigeria",
+    "journal": "IEEE Access",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1109/access.2019.2912359",
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Feeling Alone Among 317 Million Others",
+    "journal": "Computers in Human Behavior",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.1016/j.chb.2019.03.024",
+    "authors": [
+      "Jamie Mahoney",
+      "Effie Le Moignan",
+      "Kiel Long",
+      "Mike Wilson",
+      "Julie Barnett",
+      "John Vines",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Encouraging Diversity in Computer Science among Young People",
+    "journal": "2019 IEEE Frontiers in Education Conference (FIE)",
+    "year": "2019",
+    "type": "book-chapter",
+    "doi": "10.1109/fie43999.2019.9028436",
+    "authors": [
+      "Itoro Emembolu",
+      "Rebecca Strachan",
+      "Carol Davenport",
+      "Opeyemi Dele-Ajayi",
+      "Joe Shimwell"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Dynamical task switching in cellular computers",
+    "journal": "Life",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.3390/life9010014",
+    "authors": [
+      "Angel Goñi-Moreno",
+      "Fernando de la Cruz",
+      "Alfonso Rodríguez-Patón",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Designing for Digital Wellbeing",
+    "journal": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1145/3290607.3298998",
+    "authors": [
+      "Marta E. Cecchinato",
+      "John Rooksby",
+      "Alexis Hiniker",
+      "Sean Munson",
+      "Kai Lukoff",
+      "Luigina Ciolfi",
+      "Anja Thieme",
+      "Daniel Harrison"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Designing for All",
+    "journal": "2018 IEEE Frontiers in Education Conference (FIE)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1109/fie.2018.8658553",
+    "authors": [
+      "Opeyemi Dele-Ajayi",
+      "Rebecca Strachan",
+      "Alison Pickard",
+      "Jonathan Sanderson"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Cooperation between CSIRTs and Law Enforcement: interaction with the Judiciary",
+    "journal": "",
+    "year": "2019",
+    "type": "report",
+    "doi": "10.2824/274312",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Changing Culture and Challenging Stereotypes: Lets Build Bridges and Diversify!",
+    "journal": "Advance HE STEM Teaching and Learning Conference 2019, Birmingham, United Kingdom, 30/01/19",
+    "year": "2019",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Barriers and identified solutions to the integration of digital technologies in the classroom",
+    "journal": "Proceedings of 2019 IEEE Global Engineering Education Conference (EDUCON 2019)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1109/educon.2019.8725160",
+    "authors": [
+      "Dele-Ajayi Opeyemi",
+      "Victor Ayodele",
+      "Oluwafemi Alufa",
+      "Emma Anderson",
+      "Rebecca Strachan",
+      "Itoro Emembolu"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "An Intelligent Online Grooming Detection System Using AI Technologies",
+    "journal": "2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1109/fuzz-ieee.2019.8858973",
+    "authors": [
+      "Philip Anderson",
+      "Zheming Zuo",
+      "Longzhi Yang",
+      "Yanpeng Qu"
+    ],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "A Sample of One",
+    "journal": "Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS '19 Companion)",
+    "year": "2019",
+    "type": "conference-paper",
+    "doi": "10.1145/3301019.3319996",
+    "authors": [
+      "Andrés Lucero",
+      "Audrey Desjardins",
+      "Carman Neustaedter",
+      "Kristina Höök",
+      "Marc Hassenzahl",
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A Glossary for Research on Human Crowd Dynamics",
+    "journal": "Collective\nDynamics",
+    "year": "2019",
+    "type": "journal-article",
+    "doi": "10.17815/cd.2019.19",
+    "authors": [
+      "Juliane Adrian",
+      "Nikolai Bode",
+      "Martyn Amos",
+      "Mitra Baratchi",
+      "Mira Beermann",
+      "Maik Boltes",
+      "Alessandro Corbetta",
+      "Guillaume Dezecache",
+      "John Drury",
+      "Zhijian Fu",
+      "Roland Geraerts",
+      "Steve Gwynne",
+      "Gesine Hofinger",
+      "Aoife Hunt",
+      "Tinus Kanters",
+      "Angelika Kneidl",
+      "Krisztina Konya",
+      "Gerta Köster",
+      "Mira Küpper",
+      "Georgios Michalareas",
+      "Fergus Neville",
+      "Evangelos Ntontis",
+      "Stephen Reicher",
+      "Enrico Ronchi",
+      "Andreas Schadschneider",
+      "Armin Seyfried",
+      "Alastair Shipman",
+      "Anna Sieben",
+      "Michael Spearpoint",
+      "Gavin Brent Sullivan",
+      "Anne Templeton",
+      "Federico Toschi",
+      "Zeynep Yücel",
+      "Francesco Zanlungo",
+      "Iker Zuriguel",
+      "Natalie Van der\nWal",
+      "Frank van Schadewijk",
+      "Cornelia von Krüchten",
+      "Nanda Wijermans"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Vectorized candidate selection for parallel ant colony optimization",
+    "journal": "GECCO '18  Proc. Genetic and Evolutionary Computation Conference Companion (GECCO '18), July 15-19 2018, Kyoto, Japan",
+    "year": "2018",
+    "type": "conference-paper",
+    "doi": "10.1145/3205651.3208274",
+    "authors": [
+      "Joshua Peake",
+      "Martyn Amos",
+      "Paraskevas Yiapanis",
+      "Huw Lloyd"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Using deception to measure the psychophysiology of information literacy",
+    "journal": "14th Librarian's Information Literacy Annual Conference, Liverpool, United Kingdom, 4/04/18",
+    "year": "2018",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Tools and Methodologies to Support Cooperation between CSIRTs and Law Enforcement",
+    "journal": "",
+    "year": "2018",
+    "type": "report",
+    "doi": "10.2824/177198",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "The role of aesthetics and design",
+    "journal": "CHI 2018 - Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems",
+    "year": "2018",
+    "type": "conference-paper",
+    "doi": "10.1145/3170427.3188556",
+    "authors": [
+      "Matthew Pateman",
+      "Daniel Harrison",
+      "Paul Marshall",
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "The Role of Aesthetics and Design: Wearables in Situ",
+    "journal": "Proceedings CHI ’18 Extended Abstracts on Human Factors in Computing Systems",
+    "year": "2018",
+    "type": "conference-poster",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Rethinking Engagement with Online News through Social and Visual Co-Annotation",
+    "journal": "CHI 2018 Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, April 21-26, 2018, Montreal, QC, Canada",
+    "year": "2018",
+    "type": "conference-paper",
+    "doi": "10.1145/3173574.3174150",
+    "authors": [
+      "Gavin Wood",
+      "Kiel Long",
+      "Tom Feltwell",
+      "Scarlett Rowland",
+      "Phillip Brooker",
+      "Jamie Mahoney",
+      "John Vines",
+      "Julie Barnett",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Noisy Signals: Understanding the Impact of Auditory Distraction on Web Search Tasks",
+    "journal": "ACM SIGIR Conference on Human Information Interaction and Retrieval 2018, New Brunswick, NJ, United States, 11/03/18",
+    "year": "2018",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Measuring the Psychophysiology of Information Literacy",
+    "journal": "The Sixth European Conference on Information Literacy (ECIL) - Abstracts",
+    "year": "2018",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Impact of educational interventions on adolescent attitudes and knowledge regarding vaccination: A pilot study",
+    "journal": "PLOS ONE",
+    "year": "2018",
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0190984",
+    "authors": [
+      "Kate Carolan",
+      "Joanna Verran",
+      "Matthew Crossley",
+      "James Redfern",
+      "Nicola Whitton",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Grooming Detection using Fuzzy-Rough Feature Selection and Text Classification",
+    "journal": "IEEE World Congress on Computational Intelligence 2018, Rio de Janeiro, Brazil, 8/07/18",
+    "year": "2018",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Exploring Gender Diversity and Engagement with Digital Educational Games by Young People",
+    "journal": "2018 IEEE Frontiers in Education Conference, San Jose, United States, 3/10/18",
+    "year": "2018",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Exploring Digital Careers, Stereotypes and Diversity with Young People through Game Design and Implementation",
+    "journal": "2018 IEEE Global Engineering Education Conference (EDUCON)",
+    "year": "2018",
+    "type": "conference-paper",
+    "doi": "10.1109/educon.2018.8363301",
+    "authors": [
+      "Opeyemi Dele-Ajayi",
+      "Joe Shimwell",
+      "Itoro Emembolu",
+      "Rebecca Strachan",
+      "Matthew Peers"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Computational Matter",
+    "journal": "Natural Computing Series",
+    "year": "2018",
+    "type": "book",
+    "doi": "10.1007/978-3-319-65826-1",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Communicating in a Multi-Role, Multi-Device, Multi-Channel World: How Knowledge Workers Manage Work- Home Boundaries",
+    "journal": "",
+    "year": "2018",
+    "type": "dissertation-thesis",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Cellular computing and synthetic biology",
+    "journal": "Natural Computing Series",
+    "year": "2018",
+    "type": "book-chapter",
+    "doi": "10.1007/978-3-319-65826-1_7",
+    "authors": [
+      "Martyn Amos",
+      "Angel Goñi-Moreno"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Work-Home Boundaries and Communication Technologies",
+    "journal": "Ways of being in a digital age - a review conference, Liverpool, United Kingdom, 10/10/17",
+    "year": "2017",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Smartwatches: Digital Handcuffs or Magic Bracelets?",
+    "journal": "Computer",
+    "year": "2017",
+    "type": "journal-article",
+    "doi": "10.1109/mc.2017.117",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Anna L. Cox"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Shape Optimization With Surface-Mapped CPPNs",
+    "journal": "IEEE Transactions on Evolutionary Computation",
+    "year": "2017",
+    "type": "journal-article",
+    "doi": "10.1109/tevc.2016.2606040",
+    "authors": [
+      "Daniel Richards",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Searching on the Go",
+    "journal": "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, 7/08/17",
+    "year": "2017",
+    "type": "conference-presentation",
+    "doi": "10.1145/3077136.3080770",
+    "authors": [
+      "Morgan Harvey",
+      "Matthew Pointon"
+    ],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Perceptions of the effect of fragmented attention on mobile\nweb search tasks",
+    "journal": "CHIIR 2017 - Conference on Human Information Interaction and Retrieval, 1/03/17",
+    "year": "2017",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Improving Cooperation between CSIRTs and Law Enforcement: Legal and Organisational Aspects",
+    "journal": "",
+    "year": "2017",
+    "type": "report",
+    "doi": "10.2824/451887",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Has Instagram Fundamentally Altered the 'Family Snapshot'?",
+    "journal": "CHI '17 ",
+    "year": "2017",
+    "type": "conference-paper",
+    "doi": "10.1145/3025453.3025928",
+    "authors": [
+      "Effie Le Moignan",
+      "Shaun Lawson",
+      "Duncan A. Rowland",
+      "Jamie Mahoney",
+      "Pam Briggs"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Degrees of Agency in Owners & Users of Home IoT devices",
+    "journal": "CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+    "year": "2017",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Analysis of independent roulette selection in parallel ant colony optimization",
+    "journal": "Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '17), July 15-19 2017, Berlin, Germany",
+    "year": "2017",
+    "type": "conference-paper",
+    "doi": "10.1145/3071178.3071308",
+    "authors": [
+      "Huw Lloyd",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Always On (line)? User Experience of Smartwatches and their Role within Multi-Device Ecologies",
+    "journal": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 3557-3568)",
+    "year": "2017",
+    "type": "conference-paper",
+    "doi": "10.1145/3025453.3025538",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Anna L. Cox",
+      "Jon Bird"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "A modified TAM for predicting acceptance of digital educational games by teachers",
+    "journal": "2017 IEEE Global Engineering Education Conference (EDUCON)",
+    "year": "2017",
+    "type": "book-chapter",
+    "doi": "10.1109/educon.2017.7942965",
+    "authors": [
+      "Opeyemi Dele-Ajayi",
+      "Rebecca Strachan",
+      "Jonathan Sanderson",
+      "Alison Pickard"
+    ],
+    "members": [
+      "Dr Opeyemi Dele-Ajai"
+    ]
+  },
+  {
+    "title": "Work-Life Balance through Tangibles and the Internet of Things",
+    "journal": "ACM Conference on Human Factors in Computing Systems (CHI) 2016, San Jose, United States, 7/05/16",
+    "year": "2016",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato",
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Regulatory representations in architectural design",
+    "journal": "Evolutionary Computation in Gene Regulatory Network Research",
+    "year": "2016",
+    "type": "book-chapter",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Finding Email in a Multi-Account, Multi-Device World",
+    "journal": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems",
+    "year": "2016",
+    "type": "conference-paper",
+    "doi": "10.1145/2858036.2858473",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Abigail Sellen",
+      "Milad Shokouhi",
+      "Gavin Smyth"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Encoding multi-materiality",
+    "journal": " Mixed Matter: A Multi-Material Design Compendium",
+    "year": "2016",
+    "type": "book-chapter",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Dynamic load balancing on heterogeneous clusters for parallel ant colony optimization",
+    "journal": "Cluster Computing",
+    "year": "2016",
+    "type": "journal-article",
+    "doi": "10.1007/s10586-016-0534-4",
+    "authors": [
+      "Antonio Llanes",
+      "José M. Cecilia",
+      "Antonia Sánchez",
+      "José M. García",
+      "Martyn Amos",
+      "Manuel Ujaldón"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Design Frictions for Mindful Interactions: The Case for Microboundaries",
+    "journal": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+    "year": "2016",
+    "type": "conference-paper",
+    "doi": "10.1145/2851581.2892410",
+    "authors": [
+      "Anna L. Cox",
+      "Sandy J.J. Gould",
+      "Marta E. Cecchinato",
+      "Ioanna Iacovides",
+      "Ian Renfree"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Constructing the Visual Online Political Self",
+    "journal": "CHI 2016 - Conference on Human Factors in Computing Systems, 7/05/16",
+    "year": "2016",
+    "type": "conference-presentation",
+    "doi": "10.1145/2858036.2858160",
+    "authors": [
+      "Jamie Mahoney",
+      "Tom Feltwell",
+      "Obinna Ajuruchi",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "An Implementation-Focused Bio/Algorithmic Workflow for Synthetic Biology",
+    "journal": "ACS Synthetic Biology",
+    "year": "2016",
+    "type": "journal-article",
+    "doi": "10.1021/acssynbio.6b00029",
+    "authors": [
+      "Angel Goñi-Moreno",
+      "Marta Carcajona",
+      "Juhyun Kim",
+      "Esteban Martínez-García",
+      "Martyn Amos",
+      "Víctor de Lorenzo"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A highly parallelized and vectorized implementation of Max-Min Ant System on Intel Xeon Phi",
+    "journal": "IEEE Symposium Series on Computational Intelligence (SSCI)",
+    "year": "2016",
+    "type": "conference-paper",
+    "doi": "10.1109/ssci.2016.7850085",
+    "authors": [
+      "Huw Lloyd",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Working 9-5? Professional differences in email and boundary management practices",
+    "journal": "Conference on Human Factors in Computing Systems - Proceedings",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": "10.1145/2702123.2702537",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Anna L. Cox",
+      "Jon Bird"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Status of Privacy and NIS Course Curricula in EU Member States",
+    "journal": "",
+    "year": "2015",
+    "type": "report",
+    "doi": "10.2824/402788",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Smartwatches: The good, the bad and the Ugly?",
+    "journal": "Conference on Human Factors in Computing Systems - Proceedings",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": "10.1145/2702613.2732837",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Anna L. Cox",
+      "Jon Bird"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Online vs. Offline: Implications for Work Identity",
+    "journal": "CHI 2015 workshop on Between the Lines: Reevaluating the Online/Offline Binary",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Online vs. Offline",
+    "journal": "33rd Annual CHI Conference on Human Factors in Computing Systems, CHI EA 2015, Seoul, Korea, Republic of, 18/04/15",
+    "year": "2015",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Investigating evidence of mobile phone usage by drivers in road traffic accidents",
+    "journal": "Digital Investigation",
+    "year": "2015",
+    "type": "journal-article",
+    "doi": "10.1016/j.diin.2015.01.008",
+    "authors": [
+      "Graeme Horsman",
+      "Lynne R. Conniss"
+    ],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "Electronic Evidence - A Basic Guide for First Responders",
+    "journal": "",
+    "year": "2015",
+    "type": "report",
+    "doi": "10.2824/068545",
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "DiSCUS: A simulation platform for conjugation computing",
+    "journal": "Unconventional and Natural Computation (UCNC 2015)",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-319-21819-9_13",
+    "authors": [
+      "Angel Goñi-Moreno",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Bacterial computing with engineered populations",
+    "journal": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+    "year": "2015",
+    "type": "journal-article",
+    "doi": "10.1098/rsta.2014.0218",
+    "authors": [
+      "Martyn Amos",
+      "Ilka Maria Axmann",
+      "Nils Blüthgen",
+      "Fernando de la Cruz",
+      "Alfonso Jaramillo",
+      "Alfonso Rodriguez-Paton",
+      "Friedrich Simmel"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "An investigation of anonymous and spoof SMS resources used for the purposes of cyberstalking",
+    "journal": "Digital Investigation",
+    "year": "2015",
+    "type": "journal-article",
+    "doi": "10.1016/j.diin.2015.04.001",
+    "authors": [
+      "Graeme Horsman",
+      "Lynne R. Conniss"
+    ],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "\"Give me five minutes!\" Feeling time slip by",
+    "journal": "UbiComp and ISWC 2015 - Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the Proceedings of the 2015 ACM International Symposium on Wearable Computers",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": "10.1145/2800835.2800858",
+    "authors": [
+      "Daniel Harrison",
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "\"Aye, have a dream #IndyRef\"",
+    "journal": "British HCI 2015 - Proceedings of the 2015 British HCI Conference 2015",
+    "year": "2015",
+    "type": "conference-paper",
+    "doi": "10.1145/2783446.2783604",
+    "authors": [],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "“I check my emails on the toilet”: Email Practices and Work-Home Boundary Management",
+    "journal": "MobileHCI 2014 workshop on Socio-Technical Systems and Work-Home Boundaries",
+    "year": "2014",
+    "type": "conference-abstract",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Understanding in-situ social media use at music festivals",
+    "journal": "Proceedings of the companion publication of the 17th ACM conference on Computer supported cooperative work & social computing - CSCW Companion '14",
+    "year": "2014",
+    "type": "conference-paper",
+    "doi": "10.1145/2556420.2556503",
+    "authors": [
+      "Sue Jamison-Powell",
+      "Lucy Bennett",
+      "Jamie Mahoney",
+      "Shaun Lawson"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Searching for an agile approach to methods and methodology in the mobile arena.",
+    "journal": "iSchool, 10/03/14",
+    "year": "2014",
+    "type": "conference-poster",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Population-based microbial computing",
+    "journal": "International Journal of General Systems",
+    "year": "2014",
+    "type": "journal-article",
+    "doi": "10.1080/03081079.2014.921001",
+    "authors": [
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Personalised Email Tools: A Solution to Email Overload?",
+    "journal": "CHI 2014 workshop on Personalised Behaviour Change Technologies ",
+    "year": "2014",
+    "type": "conference-abstract",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Monsters, microbiology and mathematics",
+    "journal": "Journal of Biological Education",
+    "year": "2014",
+    "type": "journal-article",
+    "doi": "10.1080/00219266.2013.849283",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Investigating context: Synthesizing user behaviour and HCI models to support mobile user testing within a natural setting",
+    "journal": "i Futures, Sheffield, United Kingdom, 22/07/14",
+    "year": "2014",
+    "type": "conference-poster",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Matthew Pointon"
+    ]
+  },
+  {
+    "title": "Evolving morphologies with CPPN-NEAT and a dynamic substrate",
+    "journal": "ALIFE 14",
+    "year": "2014",
+    "type": "conference-paper",
+    "doi": "10.7551/978-0-262-32621-6-ch042",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Email management and work-home boundaries",
+    "journal": "MobileHCI 2014 - Proceedings of the 16th ACM International Conference on Human-Computer Interaction with Mobile Devices and Services",
+    "year": "2014",
+    "type": "conference-paper",
+    "doi": "10.1145/2628363.2634267",
+    "authors": [
+      "Marta E. Cecchinato"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Designing with gradients: bio-inspired computation for digital fabrication",
+    "journal": "Proceedings of the 34th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA 14: Design Agency)",
+    "year": "2014",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Comparative evaluation of platforms for parallel Ant Colony Optimization",
+    "journal": "Journal of Supercomputing",
+    "year": "2014",
+    "type": "journal-article",
+    "doi": "10.1007/s11227-014-1154-5",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "\"What Do You Think of the Return of Dungarees?\"",
+    "journal": "Proceedings of the extended abstracts of the 32nd annual ACM conference on Human factors in computing systems - CHI EA '14",
+    "year": "2014",
+    "type": "conference-paper",
+    "doi": "10.1145/2559206.2581299",
+    "authors": [
+      "Jamie Mahoney",
+      "Shaun Lawson",
+      "Rufus Stone"
+    ],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "\"I check my emails on the toilet\"",
+    "journal": "MobileHCI 2014, Toronto, Canada, 23/09/14",
+    "year": "2014",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Quantifying the Impact of Parameter Tuning on Nature-Inspired Algorithms",
+    "journal": "Advances in Artificial Life",
+    "year": "2013",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Multicellular Computing Using Conjugation for Wiring",
+    "journal": "PLoS One",
+    "year": "2013",
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0065986",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Manchester DIYBio: A case study",
+    "journal": "Science Communication: A Practical Guide for Scientists",
+    "year": "2013",
+    "type": "book-chapter",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Fitness landscape-based characterisation of nature-inspired algorithms",
+    "journal": "Adaptive and Natural Computing Algorithms - 11th International Conference, ICANNGA 2013, Proceedings",
+    "year": "2013",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-642-37213-1_12",
+    "authors": [
+      "Matthew Crossley",
+      "Andy Nisbet",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Enhancing data parallelism for ant colony optimization on GPUs",
+    "journal": "Journal of Parallel and Distributed Computing",
+    "year": "2013",
+    "type": "journal-article",
+    "doi": "10.1016/j.jpdc.2012.01.002",
+    "authors": [
+      "José M. Cecilia",
+      "José M. García",
+      "Andy Nisbet",
+      "Martyn Amos",
+      "Manuel Ujaldón"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Enhancing GPU parallelism in nature-inspired algorithms",
+    "journal": "Journal of Supercomputing",
+    "year": "2013",
+    "type": "journal-article",
+    "doi": "10.1007/s11227-012-0770-1",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Data Visualisation and Statistical Analysis within the Decision Making Process",
+    "journal": "Proceedings of the International Conference on Computer Graphics Theory and Applications and International Conference on Information Visualization Theory and Applications",
+    "year": "2013",
+    "type": "conference-paper",
+    "doi": "10.5220/0004212604890494",
+    "authors": [],
+    "members": [
+      "Dr Jamie Mahoney"
+    ]
+  },
+  {
+    "title": "Community Structure and Multi-Modal Oscillations in Complex Networks",
+    "journal": "PLoS One",
+    "year": "2013",
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0075569",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Zen Puzzle Garden is NP-complete",
+    "journal": "Information Processing Letters",
+    "year": "2012",
+    "type": "journal-article",
+    "doi": "10.1016/j.ipl.2011.10.016",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "TRUCE",
+    "journal": "International Journal of Unconventional Computing",
+    "year": "2012",
+    "type": "journal-article",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Electrostatic modulated friction as tactile feedback: Intensity perception",
+    "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+    "year": "2012",
+    "type": "book",
+    "doi": "10.1007/978-3-642-31401-8_54",
+    "authors": [
+      "Dinesh Wijekoon",
+      "Marta E. Cecchinato",
+      "Eve Hoggan",
+      "Jukka Linjama"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "DNA computing",
+    "journal": "Computational Complexity",
+    "year": "2012",
+    "type": "book-chapter",
+    "doi": "10.1007/978-1-4614-1800-9_57",
+    "authors": [
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Continuous computation in engineered gene circuits",
+    "journal": "BioSystems",
+    "year": "2012",
+    "type": "journal-article",
+    "doi": "10.1016/j.biosystems.2012.02.001",
+    "authors": [
+      "Angel Goñi-Moreno",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Bacterial computing",
+    "journal": "Computational Complexity",
+    "year": "2012",
+    "type": "book-chapter",
+    "doi": "10.1007/978-1-4614-1800-9_15",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "An evo-devo approach to architectural design",
+    "journal": "GECCO'12 - Proceedings of the 14th International Conference on Genetic and Evolutionary Computation",
+    "year": "2012",
+    "type": "conference-paper",
+    "doi": "10.1145/2330163.2330244",
+    "authors": [
+      "Daniel Richards",
+      "Nick Dunn",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A reconfigurable NAND/NOR genetic logic gate",
+    "journal": "BMC Systems Biology",
+    "year": "2012",
+    "type": "journal-article",
+    "doi": "10.1186/1752-0509-6-126",
+    "authors": [
+      "Angel Goñi-Moreno",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A genetic algorithm for the Zen Puzzle Garden game",
+    "journal": "Natural Computing",
+    "year": "2012",
+    "type": "journal-article",
+    "doi": "10.1007/s11047-011-9284-7",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Teaching Legal and Courtroom Issues in Digital Forensics",
+    "journal": "HEA ICS Conference - Enhancing Employability of Computing Students, Derby, United Kingdom, 16/02/11",
+    "year": "2011",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "SimZombie",
+    "journal": "Agent and Multi-Agent Systems",
+    "year": "2011",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-642-22000-5_53",
+    "authors": [
+      "Matthew Crossley",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Parallelization strategies for Ant Colony Optimisation on GPUs",
+    "journal": "2011 IEEE International Symposium on Parallel and Distributed Processing, Workshops and PhD Forum, IPDPSW 2011",
+    "year": "2011",
+    "type": "conference-paper",
+    "doi": "10.1109/ipdps.2011.170",
+    "authors": [
+      "J. M. Cecilia",
+      "J. M. Garcia",
+      "M. Ujaldon",
+      "A. Nisbet",
+      "M. Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Mutual information for the detection of crush",
+    "journal": "PLoS One",
+    "year": "2011",
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0028747",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Model for a population-based microbial oscillator",
+    "journal": "BioSystems",
+    "year": "2011",
+    "type": "journal-article",
+    "doi": "10.1016/j.biosystems.2011.05.011",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Cyber-bullying and online grooming: Helping to protect against the risks",
+    "journal": "",
+    "year": "2011",
+    "type": "report",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Wave propagation in filamental cellular automata",
+    "journal": "International Journal of Natural Computing Research (IJNCR)",
+    "year": "2010",
+    "type": "journal-article",
+    "doi": "10.4018/jncr.2010010103",
+    "authors": [
+      "Alan Gibbons",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Prediction and mitigation of crush conditions in emergency evacuations",
+    "journal": "Pedestrian and Evacuation Dynamics 2008",
+    "year": "2010",
+    "type": "conference-paper",
+    "doi": "10.1007/978-3-642-04504-2_18",
+    "authors": [
+      "Peter J. Harding",
+      "Martyn Amos",
+      "Steve Gwynne"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Genetic algorithms and the art of Zen",
+    "journal": "Proceedings 2010 IEEE 5th International Conference on Bio-Inspired Computing",
+    "year": "2010",
+    "type": "conference-paper",
+    "doi": "10.1109/bicta.2010.5645284",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Engineered Microbial Communication for Population-Level Behaviour",
+    "journal": "Artificial Life XII",
+    "year": "2010",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Learners informing teaching",
+    "journal": "2nd Institutional Research Conference: Building a Community for Institutional Research in the UK and Ireland, 1/07/09",
+    "year": "2009",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "Focusing on feedback for feed forward - working in partnership",
+    "journal": "North East Regional Teaching and Learning in Higher Education Conference, 1/04/09",
+    "year": "2009",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "DNA hash pooling and its applications",
+    "journal": "International Journal of Nanotechnology and Molecular Computation (IJNMC)",
+    "year": "2009",
+    "type": "journal-article",
+    "doi": "10.4018/jnmc.2009010102",
+    "authors": [
+      "Dennis Shasha",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "DNA computing",
+    "journal": "Encyclopedia of Complexity and Systems Science",
+    "year": "2009",
+    "type": "dictionary-entry",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Bacterial Computing",
+    "journal": "Encyclopedia of Complexity and Systems Science",
+    "year": "2009",
+    "type": "book-chapter",
+    "doi": "10.1007/978-0-387-30440-3_28",
+    "authors": [
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Virtual mentor: An innovation in student support",
+    "journal": "Making Connections Conference 2008, 6/11/08",
+    "year": "2008",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Lynne Conniss"
+    ]
+  },
+  {
+    "title": "Swarm-based spatial sorting",
+    "journal": "International Journal of Intelligent Computing and Cybernetics",
+    "year": "2008",
+    "type": "journal-article",
+    "doi": "10.1108/17563780810893491",
+    "authors": [
+      "Martyn Amos",
+      "Oliver Don"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "An ant-based algorithm for annular sorting",
+    "journal": "2007 IEEE Congress on Evolutionary Computation, CEC 2007",
+    "year": "2008",
+    "type": "conference-paper",
+    "doi": "10.1109/cec.2007.4424465",
+    "authors": [
+      "Marlyn Amos",
+      "Oliver Don"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A novel genetic algorithm for the Layout Optimization Problem",
+    "journal": "2007 IEEE Congress on Evolutionary Computation, CEC 2007",
+    "year": "2008",
+    "type": "conference-paper",
+    "doi": "10.1109/cec.2007.4424984",
+    "authors": [
+      "Yi-Chun Xu",
+      "Ren-Bin Xiao",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Two hybrid compaction algorithms for the layout optimization problem",
+    "journal": "BioSystems",
+    "year": "2007",
+    "type": "journal-article",
+    "doi": "10.1016/j.biosystems.2006.12.007",
+    "authors": [
+      "Ren-Bin Xiao",
+      "Yi-Chun Xu",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Particle swarm algorithm for weighted rectangle placement",
+    "journal": "Third International Conference on Natural Computation, ICNC 2007",
+    "year": "2007",
+    "type": "conference-paper",
+    "doi": "10.1109/icnc.2007.542",
+    "authors": [
+      "Yi-Chun Xu",
+      "Ren-Bin Xiao",
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Bacterial self-organisation and computation",
+    "journal": "International Journal of Unconventional Computing",
+    "year": "2007",
+    "type": "journal-article",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Going back to our roots: second generation biocomputing",
+    "journal": "International Journal of Unconventional Computing",
+    "year": "2006",
+    "type": "journal-article",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "A comparative study of teaching forensics at a university degree level",
+    "journal": "IMF 2006 - IT-Incident Management &amp; IT-Forensics 2006, 1/01/06",
+    "year": "2006",
+    "type": "conference-presentation",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Philip Anderson"
+    ]
+  },
+  {
+    "title": "Theoretical and Experimental DNA Computation",
+    "journal": "Natural Computing Series",
+    "year": "2005",
+    "type": "book",
+    "doi": "10.1007/3-540-28131-2",
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Towards molecular computation",
+    "journal": "Electronics Information and Planning",
+    "year": "2004",
+    "type": "journal-article",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Models of recombination in ciliates",
+    "journal": "Computation in Cells and Tissues: Perspectives and Tools of Thought",
+    "year": "2004",
+    "type": "book-chapter",
+    "doi": "10.1007/978-3-662-06369-9_14",
+    "authors": [
+      "P. Sant",
+      "M. Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Cellular Computing",
+    "journal": "Series in Systems Biology",
+    "year": "2004",
+    "type": "book",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "An introduction to cellular computing",
+    "journal": "Cellular Computing",
+    "year": "2004",
+    "type": "book-chapter",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Topics in the theory of DNA computing",
+    "journal": "Theoretical Computer Science",
+    "year": "2002",
+    "type": "journal-article",
+    "doi": "10.1016/s0304-3975(02)00134-2",
+    "authors": [
+      "Martyn Amos",
+      "Gheorghe Păun",
+      "Grzegorz Rozenberg",
+      "Arto Salomaa"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Molecular implementation of computational components",
+    "journal": "Proceedings of the 1999 Congress on Evolutionary Computation-CEC99",
+    "year": "2002",
+    "type": "conference-paper",
+    "doi": "10.1109/cec.1999.782527",
+    "authors": [
+      "G.G. Owenson",
+      "M. Amos",
+      "D.A. Hodgson",
+      "A. Gibbons"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Theoretical and experimental DNA computation",
+    "journal": "Current Trends in Theoretical Computer Science",
+    "year": "2001",
+    "type": "book-chapter",
+    "doi": "10.1142/9789812810403_0005",
+    "authors": [
+      "Grzegorz ROZENBERG"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "DNA-based logic",
+    "journal": "Soft Computing",
+    "year": "2001",
+    "type": "journal-article",
+    "doi": "10.1007/s005000000073",
+    "authors": [
+      "G. G. Owenson",
+      "M. Amos",
+      "D. A. Hodgson",
+      "A. Gibbons"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Review of DNA based computers III",
+    "journal": "ACM SIGACT News",
+    "year": "1999",
+    "type": "journal-article",
+    "doi": "10.1145/337885.571181",
+    "authors": [
+      "Martyn Amos"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Boolean Transitive Closure in DNA",
+    "journal": "Computing With Biomolecules",
+    "year": "1999",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Toward feasible and efficient DNA computation",
+    "journal": "Complexity",
+    "year": "1998",
+    "type": "journal-article",
+    "doi": "10.1002/(sici)1099-0526(199809/10)4:1<20::aid-cplx7>3.0.co;2-h",
+    "authors": [
+      "Martyn Amos",
+      "Alan Gibbons",
+      "Paul E. Dunne"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "DNA Simulation of Boolean Circuits",
+    "journal": "Genetic Programming 1998: Proceedings of the Third Annual Conference",
+    "year": "1998",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "The complexity and viability of DNA computations",
+    "journal": "Biocomputing and Emergent Computation",
+    "year": "1997",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "DNA computing",
+    "journal": "Current Opinion in Biotechnology",
+    "year": "1997",
+    "type": "journal-article",
+    "doi": "10.1016/s0958-1669(97)80164-4",
+    "authors": [
+      "Alan Gibbons",
+      "Martyn Amos",
+      "David Hodgson"
+    ],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Adaptation of evolutionary agents in computational ecologies",
+    "journal": "Proc. Bio-computing and Emergent Computation",
+    "year": "1997",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "RNC algorithms for the uniform generation of combinatorial structures",
+    "journal": "Proceedings of the 7th Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 1996",
+    "year": "1996",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Models of DNA computation",
+    "journal": "Mathematical Foundations of Computer Science 1996 - 21st International Symposium, MFCS 1996, Proceedings",
+    "year": "1996",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  },
+  {
+    "title": "Error-resistant Implementation of DNA Computations",
+    "journal": "DNA based computers II",
+    "year": "1996",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "Prof. Martyn Amos"
+    ]
+  }
+]
