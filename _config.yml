@@ -1,0 +1,36 @@
+title: CoRe Lab
+description: Community-level resilience against digital harms and physical threats
+
+# ---- EDIT THESE TWO LINES ----
+url: "https://Co-ResillienceLab.github.io"
+baseurl: ""     # use "" if the repo is named YOUR-USERNAME.github.io
+# ------------------------------
+
+# Contact details used in the footer and on the Home page.
+# When the group lead changes, edit these three lines only.
+contact_name: Dr Lauren Scott
+contact_email: lauren8.scott@northumbria.ac.uk
+affiliation: Northumbria University Newcastle
+
+permalink: /news/:year/:month/:day/:title/
+
+collections:
+  people:
+    output: true
+    permalink: /people/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope: { path: "", type: "people" }
+    values: { layout: "person" }
+  - scope: { path: "", type: "projects" }
+    values: { layout: "project" }
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+
+exclude:
+  - README.md
+  - scripts
+  - requirements.txt

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<p class="role">
+  {{ page.date | date: "%-d %B %Y" }}
+  {% if page.author %}
+    {% assign person = site.people | where: "title", page.author | first %}
+    · {% if person %}<a href="{{ person.url | relative_url }}">{{ page.author }}</a>{% else %}{{ page.author }}{% endif %}
+  {% endif %}
+</p>
+
+{% if page.image %}
+  <img class="project-banner" src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+{% endif %}
+
+{{ content }}
+
+<p><a href="{{ '/news/' | relative_url }}">← Back to News</a></p>
