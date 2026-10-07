@@ -20,11 +20,12 @@ We offer a holistic, ecosystems approach to building resilient communities, comb
 
 <div class="theme-grid">
   <div class="theme">Mis/disinformation</div>
-  <div class="theme">Cyber security</div>
   <div class="theme">Crowd simulation</div>
   <div class="theme">Policing</div>
   <div class="theme">Digital literacy</div>
   <div class="theme">Community resilience</div>
+  <div class="theme">Digital Harms</div>
+  <div class="theme">Privacy</div>
 </div>
 
 ## Latest news
