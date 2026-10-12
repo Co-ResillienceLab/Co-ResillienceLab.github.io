@@ -42,6 +42,19 @@
     ]
   },
   {
+    "title": "Understanding AI in Nigerian Journalism: Ethnographic Study of Adoption, Transparency, and Accountability",
+    "journal": "Proceedings of the 2026 Companion of the Computer-Supported Cooperative Work and Social Computing",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": "10.1145/3785651.3830039",
+    "authors": [
+      "Oluwamayowa Emmanuel Tijani"
+    ],
+    "members": [
+      "Mayowa Tijani"
+    ]
+  },
+  {
     "title": "The Transparency Paradox: An ethnographic investigation of AI Ethics and Accountability in Nigerian journalism",
     "journal": "Proceedings of the ACM on Human-Computer Interaction",
     "year": "2026",
@@ -981,7 +994,7 @@
   },
   {
     "title": "The end of the active work break? Remote work, sedentariness and the role of technology in creating active break-taking norms",
-    "journal": "CHIWORK 2022 ",
+    "journal": "CHIWORK 2022",
     "year": "2022",
     "type": "conference-paper",
     "doi": "10.1145/3533406.3533409",
@@ -1110,7 +1123,7 @@
   },
   {
     "title": "Design Opportunities for Freelancing Platforms",
-    "journal": "CHIWORK 2022 ",
+    "journal": "CHIWORK 2022",
     "year": "2022",
     "type": "conference-paper",
     "doi": "10.1145/3533406.3533410",
@@ -1315,7 +1328,7 @@
   },
   {
     "title": "Self-Tracking & Sousveillance at Work ",
-    "journal": "Augmented Exploitation ",
+    "journal": "Augmented Exploitation",
     "year": "2021",
     "type": "book-chapter",
     "doi": "10.2307/j.ctv1h0nv3d.16",
@@ -2394,7 +2407,7 @@
   },
   {
     "title": "Has Instagram Fundamentally Altered the 'Family Snapshot'?",
-    "journal": "CHI '17 ",
+    "journal": "CHI '17",
     "year": "2017",
     "type": "conference-paper",
     "doi": "10.1145/3025453.3025928",
@@ -2507,7 +2520,7 @@
   },
   {
     "title": "Encoding multi-materiality",
-    "journal": " Mixed Matter: A Multi-Material Design Compendium",
+    "journal": "Mixed Matter: A Multi-Material Design Compendium",
     "year": "2016",
     "type": "book-chapter",
     "doi": null,
@@ -2812,7 +2825,7 @@
   },
   {
     "title": "Personalised Email Tools: A Solution to Email Overload?",
-    "journal": "CHI 2014 workshop on Personalised Behaviour Change Technologies ",
+    "journal": "CHI 2014 workshop on Personalised Behaviour Change Technologies",
     "year": "2014",
     "type": "conference-abstract",
     "doi": null,
