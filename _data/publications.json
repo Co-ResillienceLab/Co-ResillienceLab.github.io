@@ -112,6 +112,20 @@
     ]
   },
   {
+    "title": "Rethinking Family Informatics through a Data Feminist Lens: A Duoethnography of Shared Data, (In)visible Labor, and Everyday Tracking: Rethinking Family Informatics through a Data Feminist Lens",
+    "journal": "ACM Transactions on Computing for Healthcare",
+    "year": "2026",
+    "type": "journal-article",
+    "doi": "10.1145/3785668",
+    "authors": [
+      "Marta E. Cecchinato",
+      "Daniel Harrison"
+    ],
+    "members": [
+      "Dr Marta Cecchinato"
+    ]
+  },
+  {
     "title": "Neurodiversity Meet-Up @ CHI: Building a Neuro-Affirming Community in HCI",
     "journal": "CHI EA '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
     "year": "2026",
@@ -130,6 +144,18 @@
     ],
     "members": [
       "Dr Marta Cecchinato"
+    ]
+  },
+  {
+    "title": "Mollified by Mundane Machines: GenAI and the rise of Authorship Psychosis",
+    "journal": "BCS HCI '26: Proceedings of the 39th International BCS Human-Computer Interaction Conference",
+    "year": "2026",
+    "type": "conference-paper",
+    "doi": null,
+    "authors": [],
+    "members": [
+      "David Colborn-Clark",
+      "Dr Matthew Pointon"
     ]
   },
   {
@@ -271,20 +297,6 @@
     "members": [
       "Mayowa Tijani",
       "Dr Jamie Mahoney"
-    ]
-  },
-  {
-    "title": "Rethinking Family Informatics through a Data Feminist Lens: A Duoethnography of Shared Data, (In)visible Labor, and Everyday Tracking: Rethinking Family Informatics through a Data Feminist Lens",
-    "journal": "ACM Transactions on Computing for Healthcare",
-    "year": "2025",
-    "type": "journal-article",
-    "doi": "10.1145/3785668",
-    "authors": [
-      "Marta E. Cecchinato",
-      "Daniel Harrison"
-    ],
-    "members": [
-      "Dr Marta Cecchinato"
     ]
   },
   {
